@@ -33,7 +33,6 @@ class Board extends React.Component {
       );
       console.log(rows[i]);
     }
-
     return (<div>{rows}</div>);
   }
 }
